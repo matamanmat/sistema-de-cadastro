@@ -7,3 +7,5 @@ Para que seus jogos funcionem, ligue seu monitor e digite:
 ```
 node app.js
 ```
+
+:)
