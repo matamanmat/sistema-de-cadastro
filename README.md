@@ -5,5 +5,5 @@
 Para que seus jogos funcionem, ligue seu monitor e digite:
 
 ```
-npm install react
+node app.js
 ```
